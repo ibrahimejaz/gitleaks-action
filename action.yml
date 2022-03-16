@@ -1,4 +1,4 @@
-name: Gitleaks
+name: gitleaksbyibrahim
 description: Run Gitleaks on Push and PR events
 branding:
   color: purple
